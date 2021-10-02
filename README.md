@@ -16,7 +16,7 @@ This device features a battery-powered device with built-in camera, PIR sensor -
 
 In order to build this camera, you would need:
 
-* 3D design of the enclosure, available in Thingiverse TODO Link.
+* 3D design of the enclosure, available in [Thingiverse](https://www.thingiverse.com/thing:4979797).
 * 2x R8mm x 1mm neodymium magnets.
 * 1x 18650 Battery.
 * 1x ESP32-cam module.
