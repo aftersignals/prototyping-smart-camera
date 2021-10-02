@@ -1,6 +1,6 @@
-# diy-security-camera
+# Prototyping Smart Camera
 
-Welcome to the DIY Security Camera project. This repository contains documentation, design materials, firmware and software for a custom-made WiFi camera device with built-in motion sensor, for your R&D projects involving cameras and/or sensors, and to use in your next field-security project!
+Welcome to the Prototyping Smart Camera project. This repository contains documentation, design materials, firmware and software for a custom-made WiFi camera device with built-in motion sensor, for your R&D projects involving cameras and/or sensors, and to use in your next field engagement!
 
 ![Camera Device](/static/bodegon01.png)
 
